@@ -1,0 +1,30 @@
+css
+
+
+
+h1 {
+    color: #f70a0a;
+    text-align: center;
+}
+
+div {
+    background-color: #e4c411;
+    border-radius: 10px;
+    
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Estilos CSS Interno */
+ul, li {
+    margin: 10px;
+}
+
+table {
+    background-color: #ecf0f1;
+}
+
+th {
+    background-color: #b7c3ca;
+    color: #fff;
+}
